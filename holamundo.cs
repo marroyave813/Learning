@@ -14,6 +14,12 @@ namespace ConsoleApp1
 
             // Espera a la pulsación de retorno de carro
             Console.ReadLine();
+<<<<<<< HEAD
+			
+			//Un comentario adicional
+=======
+            //Hola Mauro Kilvaniia y Omar!!!!!!!!!!!!!!
+>>>>>>> 16e41de74a017e39d4c842c199edd353d397673f
         }
     }
 }
